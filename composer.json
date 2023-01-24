@@ -1,0 +1,20 @@
+{
+    "name": "reyes/mvc-php",
+    "description": "Proyecto MVC",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "controllers/",
+            "Models\\": "models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arnaldo Reyes",
+            "email": "arnaldoreyes13@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
